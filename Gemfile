@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.0"
-
-gem "webrick", "~> 1.8"
+# Use the same compatible Jekyll and plugin versions as GitHub Pages.
+# Do not add a separate `jekyll` dependency: it can conflict with this bundle.
+gem "github-pages", group: :jekyll_plugins
