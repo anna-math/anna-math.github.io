@@ -95,18 +95,11 @@
       </header>
       <section>
 
-      <nav class="site-nav" aria-label="Primary navigation">
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/research/' | relative_url }}">Research</a>
-        <a href="{{ '/papers/' | relative_url }}">Papers</a>
-        <a href="{{ '/students/' | relative_url }}">Students</a>
-        <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
-        <a href="{{ '/awards/' | relative_url }}">Awards</a>
-        <a href="{{ '/clwp/' | relative_url }}">CLWP</a>
-        <a href="{{ '/etc/' | relative_url }}">Etc.</a>
-      </nav>
-
       {{ content }}
+
+      {% include publications.html %}
+      
+      {% include services.html %}
 
       <br>
 

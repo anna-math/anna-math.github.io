@@ -2,24 +2,3 @@
 ---
 
 @import "minimal-light";
-
-.site-nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: .35rem 1rem;
-  margin: 0 0 1.75rem;
-  padding-bottom: .75rem;
-  border-bottom: 1px solid #e5e5e5;
-  font-size: .95rem;
-}
-
-.site-nav a { white-space: nowrap; }
-
-.research-links a {
-  display: inline-block;
-  margin: 0 .35rem .35rem 0;
-  padding: .1rem .45rem;
-  border: 1px solid #ddd;
-  border-radius: 3px;
-  font-size: .88rem;
-}
