@@ -2,18 +2,12 @@
 layout: homepage
 ---
 
-## About Me
+## Welcome
 
-I am a Ph.D. student at ...
+I am an Assistant Professor in the [Department of Mathematics](https://www.math.uci.edu/) at the University of California, Irvine.
 
-## Research Interests
+My research focuses on problems arising in mathematical data science. I am particularly interested in designing and analyzing iterative algorithms for large-scale data, and in leveraging and developing tools from numerical linear algebra, signal processing, machine learning, and probability.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+For a complete list of publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=o4EFl3YAAAAJ).
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+Website last updated December 2025.
