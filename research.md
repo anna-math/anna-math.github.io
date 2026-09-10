@@ -85,4 +85,4 @@ Data visualization transforms high-dimensional information into interpretable lo
 
 - **[AVIDA: An Alternating Method for Visualizing and Integrating Data](https://arxiv.org/abs/2206.00135)**<br>
   K. Dover, Z. Cang, A. Ma, Q. Nie, and R. Vershynin.<br>
-  [arXiv](https://arxiv.org/abs/2206.00135) · [*Journal of Computational Science*](https://doi.org/10.1016/j.jocs.2023.101998) · [Code](https://github.com/kat-dover/AVIDA/tree/main/data)
+  [arXiv](https://arxiv.org/abs/2206.00135) · [*Journal of Computational Science*](https://doi.org/10.1016/j.jocs.2023.101998) · [Code](https://github.com/kat-dover/AVIDA/tree/main/)
