@@ -35,7 +35,7 @@ Randomized iterative methods solve large-scale linear systems through a sequence
   [arXiv](https://arxiv.org/abs/2507.15185) · [*SIAM Journal on Matrix Analysis and Applications*](https://epubs.siam.org/doi/full/10.1137/25M1785678), 47(2), 802–823, 2026.
 - **[Quantile-RK and Double Quantile-RK Error Horizon Analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o4EFl3YAAAAJ&sortby=pubdate&citation_for_view=o4EFl3YAAAAJ:IWHjjKOFINEC)**<br>
   E. Battaglia and A. Ma.<br>
-  [arXiv](https://arxiv.org/abs/2505.00258) · [*Linear Algebra and its Applications*](https://doi.org/10.1016/j.laa.2026.01.032), 736, 284–308, 2026.
+  [arXiv](https://arxiv.org/abs/2505.00258) · [*Linear Algebra and its Applications*](https://doi.org/10.1016/j.laa.2026.01.032)
 - **Greed Works: An Improved Analysis of Sampling Kaczmarz-Motzkin**  
   J. Haddock and A. Ma.  
   [arXiv](https://arxiv.org/abs/1912.03544) · [*SIAM Journal on Mathematics of Data Science*](https://doi.org/10.1137/19M1307044)
