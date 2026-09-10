@@ -7,7 +7,7 @@ permalink: /students/
   I am currently recruiting a graduate student to work on problems in high-dimensional numerical linear algebra. If you are interested, please email me to schedule a meeting.
 </div>
 
-## Undergraduate Research
+## 2026-2027 Undergraduate Research Project
 
 I am currently recruiting 4–5 undergraduate students for a year-long Math 199 project on tensor-based algorithms for missing data. This is an intensive academic research project and is most beneficial for students who are interested in pursuing academia after graduating.
 
