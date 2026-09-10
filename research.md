@@ -9,7 +9,7 @@ Below, I highlight some recent works and provide code, when available, associate
 
 **A complete list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=o4EFl3YAAAAJ&hl=en).**
 
-## Recent Preprints
+## Preprints
 
 - **[Quantile Randomized Kaczmarz for Streaming Linear Systems with Massart Noise](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o4EFl3YAAAAJ&sortby=pubdate&citation_for_view=o4EFl3YAAAAJ:4JMBOYKVnBMC)**<br>
   E. Battaglia, J.-F. Cai, J. Chen, A. Ma, D. Needell, and T. Wu, 2026.
@@ -38,7 +38,7 @@ Randomized iterative methods solve large-scale linear systems through a sequence
   [arXiv](https://arxiv.org/abs/2505.00258) · [*Linear Algebra and its Applications*](https://doi.org/10.1016/j.laa.2026.01.032), 736, 284–308, 2026.
 - **Greed Works: An Improved Analysis of Sampling Kaczmarz-Motzkin**  
   J. Haddock and A. Ma.  
-  [arXiv](https://arxiv.org/abs/1912.03544) · [*SIAM Journal on Mathematics of Data Science*](https://doi.org/10.1137/19M1307044), 3(1), 342–368, 2021.
+  [arXiv](https://arxiv.org/abs/1912.03544) · [*SIAM Journal on Mathematics of Data Science*](https://doi.org/10.1137/19M1307044)
 
 ### Tensor Methods
 
@@ -48,13 +48,13 @@ Tensor methods preserve the multiway structure found in data such as images, vid
 
 - **Wedge Sampling: Efficient Tensor Completion with Nearly-Linear Sample Complexity**  
   H. Luo, A. Ma, L. Stephan, and Y. Zhu.  
-  [arXiv](https://arxiv.org/abs/2602.05869) · [Conference on Learning Theory (COLT)](https://proceedings.mlr.press/v336/luo26a.html), PMLR 336, 4883–4884, 2026.
+  [arXiv](https://arxiv.org/abs/2602.05869) · [Conference on Learning Theory (COLT)](https://proceedings.mlr.press/v336/luo26a.html)
 - **Stochastic Gradient Descent for Incomplete Tensor Linear Systems**  
   A. Ma, D. Needell, and A. Xue.  
-  [arXiv](https://arxiv.org/abs/2510.07630) · [*BIT Numerical Mathematics*](https://doi.org/10.1007/s10543-026-01140-w), 66(3), 2026 · [Code](https://github.com/alexxue99/mSGDT)
+  [arXiv](https://arxiv.org/abs/2510.07630) · [*BIT Numerical Mathematics*](https://doi.org/10.1007/s10543-026-01140-w) · [Code](https://github.com/alexxue99/mSGDT)
 - **Robust Recovery of Low-Rank Matrices and Low-Tubal-Rank Tensors from Noisy Sketches**  
   A. Ma, D. Stöger, and Y. Zhu.  
-  [arXiv](https://arxiv.org/abs/2206.00803) · [*SIAM Journal on Matrix Analysis and Applications*](https://doi.org/10.1137/22M150071X), 44(4), 1566–1588, 2023 · [Code](https://github.com/anna-math/doublesketch)
+  [arXiv](https://arxiv.org/abs/2206.00803) · [*SIAM Journal on Matrix Analysis and Applications*](https://doi.org/10.1137/22M150071X) · [Code](https://github.com/anna-math/doublesketch)
 
 ### Data Visualization and Machine Learning
 
@@ -70,4 +70,4 @@ Data visualization transforms high-dimensional information into interpretable lo
   [arXiv](https://arxiv.org/abs/2306.00357)
 - **AVIDA: An Alternating Method for Visualizing and Integrating Data**  
   K. Dover, Z. Cang, A. Ma, Q. Nie, and R. Vershynin.  
-  [arXiv](https://arxiv.org/abs/2206.00135) · [*Journal of Computational Science*](https://doi.org/10.1016/j.jocs.2023.101998), 68, 101998, 2023 · [Code](https://github.com/kat-dover/AVIDA/tree/main/data)
+  [arXiv](https://arxiv.org/abs/2206.00135) · [*Journal of Computational Science*](https://doi.org/10.1016/j.jocs.2023.101998) · [Code](https://github.com/kat-dover/AVIDA/tree/main/data)
