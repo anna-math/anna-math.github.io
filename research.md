@@ -12,7 +12,8 @@ Below, I highlight some recent works and provide code, when available, associate
 ## Preprints
 
 - **[Quantile Randomized Kaczmarz for Streaming Linear Systems with Massart Noise](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o4EFl3YAAAAJ&sortby=pubdate&citation_for_view=o4EFl3YAAAAJ:4JMBOYKVnBMC)**<br>
-  E. Battaglia, J.-F. Cai, J. Chen, A. Ma, D. Needell, and T. Wu, 2026.
+  E. Battaglia, J.-F. Cai, J. Chen, A. Ma, D. Needell, and T. Wu, 2026.<br>
+  [Code](https://github.com/wtree101/Explicit-beta-and-D-for-QRK)
 
 - **[Attention Mechanisms Through the Lens of Numerical Methods: Approximation Methods and Alternative Formulations](https://arxiv.org/abs/2604.01757)**  
   M. F. Serret, A. Cortinovis, Y. Dong, D. Halikias, A. Ma, F. Matti, D. Needell, K. J. Pearce, E. Rebrova, D. Shur, R. Smith, H.-X. Wang, and L. Grigori, 2026.  
@@ -32,7 +33,7 @@ Randomized iterative methods solve large-scale linear systems through a sequence
 
 - **On the Subsample Size of Quantile-Based Randomized Kaczmarz**  
   J.-F. Cai, J. Chen, A. Ma, and T. Wu.  
-  [arXiv](https://arxiv.org/abs/2507.15185) · [*SIAM Journal on Matrix Analysis and Applications*](https://epubs.siam.org/doi/full/10.1137/25M1785678)
+  [arXiv](https://arxiv.org/abs/2507.15185) · [*SIAM Journal on Matrix Analysis and Applications*](https://epubs.siam.org/doi/full/10.1137/25M1785678) · [Code](https://github.com/wtree101/matlab-rk-analysis)
 - **[Quantile-RK and Double Quantile-RK Error Horizon Analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o4EFl3YAAAAJ&sortby=pubdate&citation_for_view=o4EFl3YAAAAJ:IWHjjKOFINEC)**<br>
   E. Battaglia and A. Ma.<br>
   [arXiv](https://arxiv.org/abs/2505.00258) · [*Linear Algebra and its Applications*](https://doi.org/10.1016/j.laa.2026.01.032)
