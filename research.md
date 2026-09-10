@@ -27,9 +27,9 @@ Randomized iterative methods solve large-scale linear systems through a sequence
 
 **Paper highlights**
 
-- **Where Have All the Kaczmarz Iterates Gone?**  
-  E. H. Bergou, S. Boucherouite, A. Dutta, X. Li, and A. Ma.  
-  [arXiv](https://arxiv.org/abs/2510.08563) · [Code](https://github.com/SoumiaBouch/Where-Have-All-the-Kaczmarz-Iterates-Gone)
+- **On the Subsample Size of Quantile-Based Randomized Kaczmarz**  
+  J.-F. Cai, J. Chen, A. Ma, and T. Wu.  
+  [arXiv](https://arxiv.org/abs/2507.15185) · [*SIAM Journal on Matrix Analysis and Applications*](https://epubs.siam.org/doi/full/10.1137/25M1785678), 47(2), 802–823, 2026.
 - **A Note on the Randomized Kaczmarz Algorithm for Solving Doubly-Noisy Linear Systems**  
   E. H. Bergou, S. Boucherouite, A. Dutta, X. Li, and A. Ma.  
   [arXiv](https://arxiv.org/abs/2308.16904) · [*SIAM Journal on Matrix Analysis and Applications*](https://doi.org/10.1137/23M155712X), 45(2), 992–1006, 2024 · [Code](https://github.com/SoumiaBouch/doubly_Noisy_Randomized_Kaczmarz)
