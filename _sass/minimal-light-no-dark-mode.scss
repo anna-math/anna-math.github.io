@@ -1,3 +1,6 @@
+$accent-sage: rgb(77, 107, 87);
+$accent-sage-hover: rgb(54, 80, 64);
+
 .pub-row {
   display: flex; 
   align-items: center;}
@@ -7,7 +10,7 @@
   height:2.4rem;
   width:2.4rem;
   background-color:transparent;
-  color:rgb(75, 184, 104)!important;
+  color:$accent-sage!important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
@@ -183,18 +186,18 @@ papertitle {
 
 h3, h4, h5, h6 {
   font-weight: 600;
-  color:rgb(75, 184, 104);
+  color:$accent-sage;
   margin:0 0 20px;
 }
 
 h1 {
   font-weight: 500;
-  color:rgb(75, 184, 104);
+  color:$accent-sage;
   margin:0 0 20px;
 }
 
 h2 {
-  color:rgb(75, 184, 104);
+  color:$accent-sage;
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
@@ -213,12 +216,12 @@ h1 {
 }
 
 a {
-  color:rgb(75, 184, 104);
+  color:$accent-sage;
   text-decoration:none;
 }
 
 a:hover {
-  color:rgb(49, 144, 76);
+  color:$accent-sage-hover;
 }
 
 a small {
