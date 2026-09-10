@@ -17,7 +17,7 @@ permalink: /teaching/
 
 - N/A
 
-###Previously Taught Courses
+### Previously Taught Courses
 
 **Math 13** - Introduction to Abstract Mathematics  
 **Math 105A** - Numerical Analysis I  
