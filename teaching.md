@@ -27,3 +27,4 @@ permalink: /teaching/
 **Math 130B** - Probability and Stochastic Processes II  
 **Math 140A** - Real Analysis I  
 **Math 225B** - Numerical Analysis and Scientific Computing
+**Math 225C** - Graduate Numerical Linear Algebra and Special Topics 
