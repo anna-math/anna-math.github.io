@@ -11,6 +11,9 @@ Below, I highlight some recent works and provide code, when available, associate
 
 ## Recent Preprints
 
+- **[Quantile Randomized Kaczmarz for Streaming Linear Systems with Massart Noise](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o4EFl3YAAAAJ&sortby=pubdate&citation_for_view=o4EFl3YAAAAJ:4JMBOYKVnBMC)**<br>
+  E. Battaglia, J.-F. Cai, J. Chen, A. Ma, D. Needell, and T. Wu, 2026.
+
 - **[Attention Mechanisms Through the Lens of Numerical Methods: Approximation Methods and Alternative Formulations](https://arxiv.org/abs/2604.01757)**  
   M. F. Serret, A. Cortinovis, Y. Dong, D. Halikias, A. Ma, F. Matti, D. Needell, K. J. Pearce, E. Rebrova, D. Shur, R. Smith, H.-X. Wang, and L. Grigori, 2026.  
   [Code](https://github.com/rnla-transformers/qkv_extractor)
@@ -30,9 +33,9 @@ Randomized iterative methods solve large-scale linear systems through a sequence
 - **On the Subsample Size of Quantile-Based Randomized Kaczmarz**  
   J.-F. Cai, J. Chen, A. Ma, and T. Wu.  
   [arXiv](https://arxiv.org/abs/2507.15185) · [*SIAM Journal on Matrix Analysis and Applications*](https://epubs.siam.org/doi/full/10.1137/25M1785678), 47(2), 802–823, 2026.
-- **A Note on the Randomized Kaczmarz Algorithm for Solving Doubly-Noisy Linear Systems**  
-  E. H. Bergou, S. Boucherouite, A. Dutta, X. Li, and A. Ma.  
-  [arXiv](https://arxiv.org/abs/2308.16904) · [*SIAM Journal on Matrix Analysis and Applications*](https://doi.org/10.1137/23M155712X), 45(2), 992–1006, 2024 · [Code](https://github.com/SoumiaBouch/doubly_Noisy_Randomized_Kaczmarz)
+- **[Quantile-RK and Double Quantile-RK Error Horizon Analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=o4EFl3YAAAAJ&sortby=pubdate&citation_for_view=o4EFl3YAAAAJ:IWHjjKOFINEC)**<br>
+  E. Battaglia and A. Ma.<br>
+  [arXiv](https://arxiv.org/abs/2505.00258) · [*Linear Algebra and its Applications*](https://doi.org/10.1016/j.laa.2026.01.032), 736, 284–308, 2026.
 - **Greed Works: An Improved Analysis of Sampling Kaczmarz-Motzkin**  
   J. Haddock and A. Ma.  
   [arXiv](https://arxiv.org/abs/1912.03544) · [*SIAM Journal on Mathematics of Data Science*](https://doi.org/10.1137/19M1307044), 3(1), 342–368, 2021.
