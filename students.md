@@ -3,6 +3,4 @@ layout: homepage
 permalink: /students/
 ---
 
-## For Students
-
-Site under construction.
+## Site Under Construction - For Students

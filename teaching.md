@@ -3,6 +3,4 @@ layout: homepage
 permalink: /teaching/
 ---
 
-## Teaching
-
-Site under construction.
+## Site Under Construction - Teaching

@@ -3,6 +3,4 @@ layout: homepage
 permalink: /research/
 ---
 
-## Research
-
-Site under construction.
+## Site Under Construction - Research
