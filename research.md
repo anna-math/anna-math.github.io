@@ -25,9 +25,15 @@ Randomized iterative methods solve large-scale linear systems through a sequence
 
 **Paper highlights**
 
-- **[Where Have All the Kaczmarz Iterates Gone?](https://arxiv.org/abs/2510.08563)** — Studies the asymptotic behavior and convergence horizon of randomized Kaczmarz iterates for noisy, inconsistent systems.
-- **[A Note on the Randomized Kaczmarz Algorithm for Solving Doubly-Noisy Linear Systems](https://arxiv.org/abs/2308.16904)** — Provides convergence guarantees when both the coefficient matrix and right-hand side contain noise.
-- **[Greed Works: An Improved Analysis of Sampling Kaczmarz-Motzkin](https://arxiv.org/abs/1908.08479)** — Analyzes a greedy randomized method for solving large linear systems.
+- **Where Have All the Kaczmarz Iterates Gone?**  
+  E. H. Bergou, S. Boucherouite, A. Dutta, X. Li, and A. Ma.  
+  [arXiv](https://arxiv.org/abs/2510.08563)
+- **A Note on the Randomized Kaczmarz Algorithm for Solving Doubly-Noisy Linear Systems**  
+  E. H. Bergou, S. Boucherouite, A. Dutta, X. Li, and A. Ma.  
+  [arXiv](https://arxiv.org/abs/2308.16904) · [Journal](https://doi.org/10.1137/23M155712X)
+- **Greed Works: An Improved Analysis of Sampling Kaczmarz-Motzkin**  
+  J. Haddock and A. Ma.  
+  [arXiv](https://arxiv.org/abs/1912.03544) · [Journal](https://doi.org/10.1137/19M1307044)
 
 ### Tensor Methods
 
@@ -35,9 +41,15 @@ Tensor methods preserve the multiway structure found in data such as images, vid
 
 **Paper highlights**
 
-- **[Wedge Sampling: Efficient Tensor Completion with Nearly-Linear Sample Complexity](https://proceedings.mlr.press/v336/luo26a.html)** — Introduces a structured sampling scheme that enables efficient low-rank tensor completion with nearly linear sample complexity.
-- **[Stochastic Gradient Descent for Incomplete Tensor Linear Systems](https://arxiv.org/abs/2510.07630)** — Extends stochastic-gradient methods for tensor linear systems to broader missing-data models.
-- **[Robust Recovery of Low-Rank Matrices and Low-Tubal-Rank Tensors from Noisy Sketches](https://arxiv.org/abs/2206.00803)** — Establishes recovery guarantees for low-rank data from noisy linear sketches.
+- **Wedge Sampling: Efficient Tensor Completion with Nearly-Linear Sample Complexity**  
+  H. Luo, A. Ma, L. Stephan, and Y. Zhu.  
+  [arXiv](https://arxiv.org/abs/2602.05869) · [Proceedings](https://proceedings.mlr.press/v336/luo26a.html)
+- **Stochastic Gradient Descent for Incomplete Tensor Linear Systems**  
+  A. Ma, D. Needell, and A. Xue.  
+  [arXiv](https://arxiv.org/abs/2510.07630) · [Journal](https://doi.org/10.1007/s10543-026-01140-w)
+- **Robust Recovery of Low-Rank Matrices and Low-Tubal-Rank Tensors from Noisy Sketches**  
+  A. Ma, D. Stöger, and Y. Zhu.  
+  [arXiv](https://arxiv.org/abs/2206.00803) · [Journal](https://doi.org/10.1137/22M150071X)
 
 ### Data Visualization and Machine Learning
 
@@ -45,6 +57,12 @@ Data visualization transforms high-dimensional information into interpretable lo
 
 **Paper highlights**
 
-- **[Attention Mechanisms Through the Lens of Numerical Methods](https://arxiv.org/abs/2604.01757)** — Surveys fast attention methods through numerical linear algebra, including low-rank approximation, randomized sketching, sparsity, and tensor decompositions.
-- **[Efficient and Robust Bayesian Selection of Hyperparameters in Dimension Reduction for Visualization](https://arxiv.org/abs/2306.00357)** — Uses Bayesian optimization to tune visualization methods such as t-SNE and UMAP efficiently.
-- **[AVIDA: An Alternating Method for Visualizing and Integrating Data](https://arxiv.org/abs/2206.00135)** — Alternates dimension reduction and data alignment to create joint visualizations of multimodal datasets.
+- **Attention Mechanisms Through the Lens of Numerical Methods: Approximation Methods and Alternative Formulations**  
+  M. F. Serret, A. Cortinovis, Y. Dong, D. Halikias, A. Ma, F. Matti, D. Needell, K. J. Pearce, E. Rebrova, D. Shur, R. Smith, H.-X. Wang, and L. Grigori.  
+  [arXiv](https://arxiv.org/abs/2604.01757)
+- **Efficient and Robust Bayesian Selection of Hyperparameters in Dimension Reduction for Visualization**  
+  Y.-T. Liao, H. Luo, and A. Ma.  
+  [arXiv](https://arxiv.org/abs/2306.00357)
+- **AVIDA: An Alternating Method for Visualizing and Integrating Data**  
+  K. Dover, Z. Cang, A. Ma, Q. Nie, and R. Vershynin.  
+  [arXiv](https://arxiv.org/abs/2206.00135) · [Journal](https://doi.org/10.1016/j.jocs.2023.101998)
