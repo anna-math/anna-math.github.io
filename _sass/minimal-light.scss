@@ -2,6 +2,15 @@ $accent-sage: rgb(0, 107, 80);
 $accent-sage-hover: rgb(0, 77, 58);
 $accent-sage-dark-mode: rgb(102, 194, 165);
 
+.last-updated {
+  color: #777;
+  font-size: 0.8rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  .last-updated { color: #aaa; }
+}
+
 .student-callout {
   margin: 0 0 2rem;
   padding: 1rem 1.25rem;
