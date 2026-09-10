@@ -21,4 +21,5 @@ Before requesting a letter, please have the following documents prepared:
 - Your CV or résumé
 - An unofficial transcript
 - A list of programs, positions, or scholarships and their deadlines
+  
 Letters can be requested via email and must be submitted at least four weeks before the first deadline. 
