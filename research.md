@@ -19,9 +19,17 @@ Below, I highlight some recent works and provide code, when available, associate
   M. F. Serret, A. Cortinovis, Y. Dong, D. Halikias, A. Ma, F. Matti, D. Needell, K. J. Pearce, E. Rebrova, D. Shur, R. Smith, H.-X. Wang, and L. Grigori, 2026.<br>
   [arXiv](https://arxiv.org/abs/2604.01757) · [Code](https://github.com/rnla-transformers/qkv_extractor)
 
+- **[Wedge Sampling: Efficient Tensor Completion with Nearly-Linear Sample Complexity](https://arxiv.org/abs/2602.05869)**<br>
+  H. Luo, A. Ma, L. Stephan, and Y. Zhu, 2026.<br>
+  [arXiv](https://arxiv.org/abs/2602.05869)
+
 - **[Where Have All the Kaczmarz Iterates Gone?](https://arxiv.org/abs/2510.08563)**<br>
   E. H. Bergou, S. Boucherouite, A. Dutta, X. Li, and A. Ma, 2025.<br>
   [arXiv](https://arxiv.org/abs/2510.08563) · [Code](https://github.com/SoumiaBouch/Where-Have-All-the-Kaczmarz-Iterates-Gone)
+
+- **[Efficient and Robust Bayesian Selection of Hyperparameters in Dimension Reduction for Visualization](https://arxiv.org/abs/2306.00357)**<br>
+  Y.-T. Liao, H. Luo, and A. Ma, 2023.<br>
+  [arXiv](https://arxiv.org/abs/2306.00357)
 
 ## Research Areas
 
