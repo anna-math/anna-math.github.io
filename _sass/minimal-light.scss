@@ -2,6 +2,30 @@ $accent-sage: rgb(0, 107, 80);
 $accent-sage-hover: rgb(0, 77, 58);
 $accent-sage-dark-mode: rgb(102, 194, 165);
 
+.student-callout {
+  margin: 0 0 2rem;
+  padding: 1rem 1.25rem;
+  border: 2px solid $accent-sage;
+  border-radius: 0.4rem;
+  background: rgba(0, 107, 80, 0.1);
+  color: $accent-sage-hover;
+  font-weight: 600;
+  text-align: center;
+}
+
+.student-callout a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+@media (prefers-color-scheme: dark) {
+  .student-callout {
+    border-color: $accent-sage-dark-mode;
+    background: rgba(102, 194, 165, 0.12);
+    color: $accent-sage-dark-mode;
+  }
+}
+
 .site-nav {
   display: flex;
   flex-wrap: wrap;
