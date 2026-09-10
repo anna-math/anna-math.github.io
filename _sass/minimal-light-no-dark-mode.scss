@@ -1,6 +1,27 @@
 $accent-sage: rgb(0, 107, 80);
 $accent-sage-hover: rgb(0, 77, 58);
 
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.1rem;
+  margin: 0 0 2rem;
+  padding: 0 0 0.75rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.site-nav a {
+  color: $accent-sage;
+  font-weight: 500;
+}
+
+.site-nav a:hover,
+.site-nav a.active {
+  color: $accent-sage-hover;
+  text-decoration: underline;
+  text-underline-offset: 0.3rem;
+}
+
 .pub-row {
   display: flex; 
   align-items: center;}

@@ -95,6 +95,14 @@
       </header>
       <section>
 
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active" aria-current="page"{% endif %}>Home</a>
+        <a href="{{ '/research/' | relative_url }}"{% if page.url == '/research/' %} class="active" aria-current="page"{% endif %}>Research</a>
+        <a href="{{ '/teaching/' | relative_url }}"{% if page.url == '/teaching/' %} class="active" aria-current="page"{% endif %}>Teaching</a>
+        <a href="{{ '/students/' | relative_url }}"{% if page.url == '/students/' %} class="active" aria-current="page"{% endif %}>For Students</a>
+        <a href="{{ '/extras/' | relative_url }}"{% if page.url == '/extras/' %} class="active" aria-current="page"{% endif %}>Extras</a>
+      </nav>
+
       {{ content }}
 
       <br>
