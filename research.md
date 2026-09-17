@@ -11,6 +11,10 @@ Below, I highlight some recent works and provide code, when available, associate
 
 ## Preprints
 
+- **[Quantile-based Loss Filtering for Outlier-Robust Stochastic Gradient Descent](https://arxiv.org/abs/2609.13040v1)**<br>
+  J. Haddock, A. Ma, E. Rebrova, 2026.<br>
+  [arXiv](https://arxiv.org/abs/2609.13040v1) · [Code](https://github.com/jamiehadd/QuantileSGD)
+
 - **[Quantile Randomized Kaczmarz for Streaming Linear Systems with Massart Noise](https://arxiv.org/abs/2608.27968)**<br>
   E. Battaglia, J.-F. Cai, J. Chen, A. Ma, D. Needell, and T. Wu, 2026.<br>
   [arXiv](https://arxiv.org/abs/2608.27968) · [Code](https://github.com/wtree101/Explicit-beta-and-D-for-QRK)
