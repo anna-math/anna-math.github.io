@@ -49,7 +49,7 @@ Randomized iterative methods solve large-scale linear systems through a sequence
 
 - **[Quantile-RK and Double Quantile-RK Error Horizon Analysis](https://arxiv.org/abs/2505.00258)**<br>
   E. Battaglia and A. Ma.<br>
-  [arXiv](https://arxiv.org/abs/2505.00258) · [*Linear Algebra and its Applications*](https://doi.org/10.1016/j.laa.2026.01.032)
+  [arXiv](https://arxiv.org/abs/2505.00258) · [*Linear Algebra and its Applications*](https://doi.org/10.1016/j.laa.2026.01.032) · [Code](https://github.com/Mr-E-User/Quantile-RK-and-Double-Quantile-RK-Error-Horizon-Analysis)
 
 - **[Greed Works: An Improved Analysis of Sampling Kaczmarz-Motzkin](https://arxiv.org/abs/1912.03544)**<br>
   J. Haddock and A. Ma.<br>
