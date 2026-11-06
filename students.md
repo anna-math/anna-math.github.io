@@ -3,6 +3,10 @@ layout: homepage
 permalink: /students/
 ---
 
+<div class="student-callout">
+  I am currently recruiting a graduate student to work on tensor problems, with an emphasis on developing and analyzing tensor algorithms. If you are interested, please email me to schedule a meeting.
+</div>
+
 ## Undergraduate Research
 
 I am not currently taking on undergraduate students for research. However, I will be recruiting students for a year-long project in 2027-2028. Please reach out in Sept. 2027 if you are interested. More details will be provided on this website closer to the recruitment date. 
