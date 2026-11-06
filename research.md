@@ -11,6 +11,10 @@ Below, I highlight some recent works and provide code, when available, associate
 
 ## Preprints
 
+- **[Weighted Randomized Kaczmarz for Sparsely Corrupted Linear Systems](https://arxiv.org/abs/2611.03889)**<br>
+  J. Chen, Z. Cheng, Y. He, A. Kryshchenko, J. T. Chi, A. Ma, and J. Haddock, 2026.<br>
+  [arXiv](https://arxiv.org/abs/2611.03889) · [Code](https://github.com/jamiehadd/GWRK)
+
 - **[Quantile-based Loss Filtering for Outlier-Robust Stochastic Gradient Descent](https://arxiv.org/abs/2609.13040v1)**<br>
   J. Haddock, A. Ma, E. Rebrova, 2026.<br>
   [arXiv](https://arxiv.org/abs/2609.13040v1) · [Code](https://github.com/jamiehadd/QuantileSGD)
