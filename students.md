@@ -5,7 +5,7 @@ permalink: /students/
 
 ## Undergraduate Research
 
-I am not currently taking on undergraduate students for research.
+I am not currently taking on undergraduate students for research. However, I will be recruiting students for a year-long project in 2027-2028. Please reach out in Sept. 2027 if you are interested. More details will be provided on this website closer to the recruitment date. 
 
 ## Letters of Recommendation
 I am generally able to write the strongest letters for students who have conducted research with me or interacted with me regularly for a class. 
