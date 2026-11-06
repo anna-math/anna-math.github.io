@@ -10,7 +10,7 @@ I develop and analyze iterative methods for linear systems, tensor methods, and 
 
 ## Seminar
 
-I co-organize a [research seminar](https://hrluo.github.io/). Visit the seminar website for upcoming talks and details.
+I co-organize the [Online Seminar for Tensors Theory and Applications](https://hrluo.github.io/tensor.html). Visit the seminar website for upcoming talks and details.
 
 ## Prospective Students
 

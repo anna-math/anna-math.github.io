@@ -4,7 +4,7 @@ permalink: /students/
 ---
 
 <div class="student-callout">
-  I am currently recruiting a graduate student to work on tensor problems, with an emphasis on developing and analyzing tensor algorithms. If you are interested, please email me to schedule a meeting.
+  I am currently recruiting a graduate student to work on problems in high-dimensional numerical linear algebra. If you are interested, please email me to schedule a meeting.
 </div>
 
 ## Undergraduate Research
